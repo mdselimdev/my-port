@@ -37,3 +37,12 @@ h1 {
   font-weight: 600;
   margin-top: 20px;
 }
+
+.dream-big {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  background-image: url(img/dream-bg.png);
+  background-repeat: no-repeat;
+  background-position: right;
+}
